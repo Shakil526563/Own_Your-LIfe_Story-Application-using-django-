@@ -2,3 +2,6 @@ The aim of the project is to create a platform where individuals can freely shar
 
 ![Screenshot (368)](https://github.com/Shakil526563/Share_Own_Your-LIfe_Story-Application-using-django-/assets/100131954/0349471a-da0e-4951-911c-a21f2149efb7)
 ![Screenshot (369)](https://github.com/Shakil526563/Share_Own_Your-LIfe_Story-Application-using-django-/assets/100131954/e1f6e955-4abf-45cb-8ddb-bb1cb72e4376)
+![Screenshot (370)](https://github.com/Shakil526563/Share_Own_Your-LIfe_Story-Application-using-django-/assets/100131954/c56b7461-1e2a-4045-acb6-da7bc5d7903e)
+![Screenshot (375)](https://github.com/Shakil526563/Share_Own_Your-LIfe_Story-Application-using-django-/assets/100131954/79be4fbb-b8c8-4c26-8032-bfb7cffe08b6)
+![Screenshot (376)](https://github.com/Shakil526563/Share_Own_Your-LIfe_Story-Application-using-django-/assets/100131954/2c47ad2c-f180-46e4-b82b-16c5c1552083)
